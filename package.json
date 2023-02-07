@@ -1,0 +1,19 @@
+{
+  "name": "fruit-rating-database",
+  "version": "1.0.0",
+  "description": "Make a database of fruits with ratings of the ones you have tried.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RebRey/fruit-rating-database.git"
+  },
+  "author": "Rebecca Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RebRey/fruit-rating-database/issues"
+  },
+  "homepage": "https://github.com/RebRey/fruit-rating-database#readme"
+}
