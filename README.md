@@ -14,3 +14,8 @@ npm init
 ```
 npm install mongodb@5.0
 ```
+
+When you install the Node.js Driver this will do the following:
+* Downloads the mongodb package and the dependencies it requires
+* Saves the package in the node_modules directory
+* Records the dependency information in the package.json file

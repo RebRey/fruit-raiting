@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RebRey/fruit-rating-database/issues"
   },
-  "homepage": "https://github.com/RebRey/fruit-rating-database#readme"
+  "homepage": "https://github.com/RebRey/fruit-rating-database#readme",
+  "dependencies": {
+    "mongodb": "5.0"
+  }
 }
