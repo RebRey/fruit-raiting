@@ -39,11 +39,12 @@ async function run() {
       },
     ]);
 
-    //for loop to print the data
+    //Find a document, for loop to print the data
     for (let i = 1; i <= 3; i++) {
       field = await collection.findOne({ _id: i });
       console.log(field);
     }
+
   } finally {
     // Ensures that the client will close when you finish/error
     await client.close();

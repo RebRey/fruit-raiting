@@ -19,7 +19,3 @@ When you install the Node.js Driver this will do the following:
 * Downloads the mongodb package and the dependencies it requires
 * Saves the package in the node_modules directory
 * Records the dependency information in the package.json file
-
-## Create your Node.js Application
-
-1) Create a file named app.js in your project directory.
